@@ -18,12 +18,14 @@ Para rodar este jogo em sua máquina, você precisará do **JDK (Java Developmen
 ### Passos:
 
 1. **Clone o repositório:**
+
    ```bash
    git clone https://github.com/CaioNunesGomesF/jogo-cobrinha.git
    cd jogo-cobrinha
    ```
 
 2. **Compile o código fonte:**
+
    ```bash
    javac JogoCobrinha.java
    ```
@@ -42,12 +44,12 @@ Para facilitar, adicionei scripts que verificam o Java, compilam (se necessário
 
 ## 🎮 Controles
 
-| Tecla | Ação |
-| :--- | :--- |
-| `Seta para Cima` | Move para Cima |
-| `Seta para Baixo` | Move para Baixo |
+| Tecla                | Ação                 |
+| :------------------- | :------------------- |
+| `Seta para Cima`     | Move para Cima       |
+| `Seta para Baixo`    | Move para Baixo      |
 | `Seta para Esquerda` | Move para a Esquerda |
-| `Seta para Direita` | Move para a Direita |
+| `Seta para Direita`  | Move para a Direita  |
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -57,4 +59,4 @@ Para facilitar, adicionei scripts que verificam o Java, compilam (se necessário
 
 ---
 
-Desenvolvido com ❤️ por [Caio Nunes](https://github.com/CaioNunesGomesF)
+Desenvolvido com ❤️ por Caio Nunes, Clara Nunes.
